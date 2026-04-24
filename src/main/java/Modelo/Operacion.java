@@ -5,7 +5,7 @@
 package Modelo;
 
 /**
- *
+ *a
  * @author F20LAB207E13
  */
 public class Operacion {
